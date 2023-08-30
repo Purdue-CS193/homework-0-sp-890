@@ -1,6 +1,6 @@
 # Soyeon Park's First CS193 Homework
 
-## Things I like about CS193:
+## My favorite things about CS193:
 - The _awesome_ TAs
 - The classroom is nice
 - Lectures are engaging
