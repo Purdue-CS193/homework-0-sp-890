@@ -4,23 +4,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Things I Like
-- puppies
-- balloons
-- ice cream
-
-# Things I Hate:
-- puppies
-- balloons
-- ice cream
-
-### Things I am Neutral On:
-- *Hot chocolate*
-- Water parks
-- _Laundry_
-
-`### Markdown`
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
